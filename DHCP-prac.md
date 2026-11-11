@@ -1,8 +1,5 @@
 # DHCP Lab — One Router Serving Two LANs (Build → Break → Fix)
 
-> **CCNA 200-301 topics covered:** 4.3 (Role of DHCP and DNS) · 1.6 (IPv4 addressing) · 1.7 (APIPA) · 1.10 (Verify client IP parameters)
-> **Tools:** Cisco Packet Tracer · Cisco ISR4331 · 2× Catalyst 2960-24TT · 3 PCs
-> **Author:** Dharun — MCA graduate, working towards a Network Engineer / NOC role
 
 ---
 
